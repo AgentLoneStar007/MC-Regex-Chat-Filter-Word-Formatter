@@ -3,7 +3,7 @@
 
 This script is extremely simple to use. Just do the following:
 
-### 1. Enter bad words into input.txt.
+### 1. Enter desired words into input.txt.
 BE SURE TO LEAVE ONE EMPTY LINE AT THE BOTTOM, OR LAST LINE WILL BE MISSING THE ENDING "*).*"
 ### 2. Run the script.
 A file named "*output.txt*" will be created, containing all the words, properly formatted with Regex. (Please note: you have to change all the "?b" statements to "\b"
